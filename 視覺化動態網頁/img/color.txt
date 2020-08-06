@@ -1,0 +1,7 @@
+red : FF4040
+Orange : FF7C00
+Yellow : FFD700
+Green : 76EE00
+Blue : 87CEEB
+Indigo : 1081E0
+Purple : 7B68EE

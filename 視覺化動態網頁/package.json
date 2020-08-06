@@ -1,0 +1,23 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server --port 8000",
+    "start": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/proj4": "^2.3.4",
+    "jquery": "^3.3.1",
+    "lite": "^4.0.5",
+    "proj4": "^2.4.4",
+    "sever": "0.0.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
